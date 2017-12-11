@@ -49,7 +49,7 @@ body {
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
 }
-.footer {
+footer {
     position:bottom;
     left: 0;
     bottom: 0;
